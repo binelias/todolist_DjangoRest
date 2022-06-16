@@ -1,6 +1,3 @@
-# todolist_DjangoRest
-
-
 # Notes App using React with Django
 </div>
 
