@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react'
-// import notes from '../assets/data'
 import ListItems from '../components/ListItems'
 import AddButton from '../components/AddButton'
 
