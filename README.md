@@ -28,5 +28,9 @@ To run the Notes App, we use :
 ```bash
 python manage.py runserver
 ```
+### Open the App
 
-Then open this link http://127.0.0.1:8000/ to experience this web app
+```bash
+http://127.0.0.1:8000
+```
+
